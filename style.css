@@ -20,3 +20,8 @@ em {
 p {
 	font-family: serif;
 }
+
+h2.special
+{
+  color: red;
+}
